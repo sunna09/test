@@ -3,3 +3,8 @@ body {
   padding: 0;
   background-color: #333;
 }
+
+.header {
+  background-color: beige;
+  font-size: 14px;
+}
